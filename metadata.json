@@ -1,0 +1,5 @@
+{
+  "name": "MHFU Save Transmuter",
+  "description": "Convert Monster Hunter Freedom Unite save files between PSP and iOS formats using custom encryption keys.",
+  "requestFramePermissions": []
+}
